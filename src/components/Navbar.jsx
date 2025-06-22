@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav className="sticky top-0 z-50 bg-black text-white px-6 py-5 flex justify-between items-center">
       <Link to="/">
-        <img src="/logo2.png" alt="Slayra Logo" className="h-12" />
+        <img src="/logo21.png" alt="Slayra Logo" className="h-12" />
       </Link>
       <ul className="flex space-x-6 text-md">
         <li><Link to="/skin-analysis" className="hover:text-pink-400">Skin Analysis</Link></li>

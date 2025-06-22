@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8">
         {/* Logo + About */}
         <div>
-          <img src="/logo2.png" alt="Slayra Logo" className="h-16 mb-4" />
+          <img src="/logo21.png" alt="Slayra Logo" className="h-16 mb-4" />
           <p className="text-md text-gray-400">
             Slayra empowers you to express yourself through personalized fashion, makeup,
             and wellness powered by AI.
